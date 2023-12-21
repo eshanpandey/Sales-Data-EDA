@@ -20,18 +20,19 @@ This Exploratory Data Analysis (EDA) project aims to analyze the sales data of a
 ### 1. Overall Sales Trend
 
 To understand the overall sales trend, the sales data was aggregated on a monthly basis.
-![Alt text](image.png)
+![alt text](https://github.com/eshanpandey/Sales-Data-EDA/blob/main/image-1.png)
 
 ### 2. Top 10 Products by Sales
 
 The top 10 products were identified based on their sales amounts. This information provides insights into 
+![alt text](https://github.com/eshanpandey/Sales-Data-EDA/blob/main/image-1.png)
 
 ### 3. Most Selling Products
 
 Identification of the most selling products allows the superstore to focus on popular items and optimize inventory. The analysis revealed 
 the most selling products as follows :
+![alt text](https://github.com/eshanpandey/Sales-Data-EDA/blob/main/image-1.png)
 
-![Alt text](image-1.png)
 ### 4. Preferred Shipping Mode
 
 Understanding the preferred shipping mode helps in optimizing logistics and improving customer satisfaction. The analysis revealed ![Alt text](image-2.png).
